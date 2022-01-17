@@ -1,0 +1,42 @@
+html{ 
+    background: url(images/backgroundwebsite.jpg) no-repeat center fixed; 
+    background-size: cover;
+  }
+    
+  body { 
+    color: black; 
+  }
+              
+              p {color: darkblue;}
+              h1{color: black}
+              h1 {text-align: center;}
+              h2 {color: rgb(135, 199, 224);}
+  
+              .button {
+    padding: 5px 5px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #666;
+    background-color: lightblue;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px none;
+  }
+  
+  .button:hover {background-color: lightblue
+  }
+  
+  .button:active {
+    background-color: lightblue
+    box-shadow 0 5px none;
+    transform: translateY(4px);
+  }
+  
+            body {background-color: cyan;}
+            p {color: darkblue;}
+            h1 {color: darkgoldenrod;}
+        
+
+
